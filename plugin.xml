@@ -20,7 +20,7 @@
     <platform name="android">
       <config-file target="res/xml/config.xml" parent="/*">
       <feature name="ImageResizer">
-               <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner"/>
+               <param name="android-package" value="com.webXells.ImageResizer.ImageResizePlugin"/>
            </feature> 
        
       </config-file>
